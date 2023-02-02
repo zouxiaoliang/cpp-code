@@ -1,0 +1,31 @@
+{
+    "name": "cpp-code",
+    "displayName": "cpp-code",
+    "description": "vscode for cpp extension pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "author": {
+        "name": "zouxiaoliang"
+    },
+    "repository": {
+        "url": ""
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "zouxiaoliang.c-and-cpp-creator",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "usernamehw.errorlens",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.makefile-tools",
+        "josetr.cmake-language-support-vscode",
+        "BazelBuild.vscode-bazel",
+        "reapler.cfold",
+        "xaver.clang-format",
+        "asabil.meson",
+        "sainnhe.gruvbox-material"
+    ]
+}

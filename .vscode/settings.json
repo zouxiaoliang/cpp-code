@@ -1,0 +1,9 @@
+{
+    "spellright.ignoreFiles": [
+        "**/.gitignore",
+        "**/.spellignore",
+        "README.md",
+        "vsc-extension-quickstart.md",
+        "CHANGELOG.md"
+    ]
+}
