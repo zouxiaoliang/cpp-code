@@ -15,6 +15,7 @@
     "categories": [
         "Extension Packs"
     ],
+    "publisher": "zouxiaoliang",
     "extensionPack": [
         "zouxiaoliang.c-and-cpp-creator",
         "llvm-vs-code-extensions.vscode-clangd",
