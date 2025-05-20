@@ -24,9 +24,7 @@
         "ms-vscode.makefile-tools",
         "josetr.cmake-language-support-vscode",
         "BazelBuild.vscode-bazel",
-        "reapler.cfold",
         "xaver.clang-format",
-        "asabil.meson",
-        "sainnhe.gruvbox-material"
+        "asabil.meson"
     ]
 }
